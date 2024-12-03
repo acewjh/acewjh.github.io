@@ -22,6 +22,7 @@ Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎯🏆 We have released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) regarding **AI value alignment evaluation**. Interested academic teams are welcomed to reveal this challenge and collaborate with us!
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
 - *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
 
