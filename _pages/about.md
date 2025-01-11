@@ -136,7 +136,7 @@ Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
 
 # 📖 Educations
 - *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))
-- *2015.09 - 2019.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China
+- *2013.09 - 2017.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China
 
 # 💻 Internships
 - *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.
