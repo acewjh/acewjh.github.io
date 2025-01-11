@@ -22,6 +22,7 @@ Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez
 
 
 # 🔥 News
+- *2025.01*: &nbsp;📚👉 We are recruiting **AI safety research interns and full-time researchers**. Research interests include AI value alignment, hallucination mitigation and other safety issues. You can contact me or apply through our [official website](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=12597&dataSource=1&jobType=0&recruitType=CR&sourceType=001).
 - *2024.12*: &nbsp;🎯🏆 We have released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) regarding **AI value alignment evaluation**. Interested academic teams are welcomed to reveal this challenge and collaborate with us!
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
 - *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
