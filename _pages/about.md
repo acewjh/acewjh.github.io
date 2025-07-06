@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahao Wang is currently a senior research engineer in **AI safety and governance** at 2012 Lab of [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/). He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021.   
+Dr. Jiahao Wang is currently a director research engineer in **AI safety and governance** at 2012 Lab of [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/). He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021.   
 Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/), Dr. Wang's major research interest during PhD was computer vision and video understanding, where he focused on how to utilize **few-shot, unsupervised** and other representation learning methods to facilitate AI **understanding human behaviors accurately and reliably.** It was also from then he has begun to look into the trustworthiness and safety issues of AI. After joining Huawei, he started in-depth research in AI safety and governance, with a particular focus on **AI alignment, hallucination mitigation** and other cutting-edge areas like AI transparency, data governance, etc.
 
 
@@ -126,7 +126,8 @@ Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
 **Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
 
 # 🎖 Honors and Awards
-- *2023* Huawei Rising Star Award
+- *2024* Huawei Annual President’s Individual Award
+- *2022, 2023* Huawei Rising Star Award
 - *2022* Outstanding Doctoral Graduate Award of Beihang University
 - *2017* Doctoral Scholarship of Beihang University
 - *2017* Outstanding Undergraduate Graduate Award of Beijing
