@@ -30,6 +30,7 @@ Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
 - *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
 
+<span class='anchor' id='-selected-publications'></span>
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIES 2025</div><img src='images/AIES 2025.png' alt="sym" width="100%"></div></div>
@@ -139,6 +140,7 @@ Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT**
 </div>
 </div>
 
+<span class='anchor' id='-publication-list'></span>
 # 📝 Publication List
 - Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES. 2025  
 **Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang
@@ -163,6 +165,7 @@ Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
 - Atrous Temporal Convolutional Network for Video Action Segmentation. IEEE ICIP. 2019  
 **Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2024* Huawei Annual President’s Individual Award
 - *2022, 2023* Huawei Rising Star Award
@@ -173,9 +176,11 @@ Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
 - *2016* Social Work Scholarship of Beihang University
 - *2016* Silver Medal of the 26th Feng Ru Competition of Beihang University
 
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))
 - *2013.09 - 2017.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China
 
+<span class='anchor' id='-internships'></span>
 # 💻 Internships
 - *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.
