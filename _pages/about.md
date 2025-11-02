@@ -17,17 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahao Wang is currently a director research engineer in **AI safety and governance** at 2012 Lab of [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/). He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021.   
+Dr. Jiahao Wang is currently a chief research engineer in **AI safety and governance** at 2012 Lab of [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/). He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021.   
 Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/), Dr. Wang's major research interest during PhD was computer vision and video understanding, where he focused on how to utilize **few-shot, unsupervised** and other representation learning methods to facilitate AI **understanding human behaviors accurately and reliably.** It was also from then he has begun to look into the trustworthiness and safety issues of AI. After joining Huawei, he started in-depth research in AI safety and governance, with a particular focus on **AI alignment, hallucination mitigation** and other cutting-edge areas like AI transparency, data governance, etc.
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
+- *2025.08*: &nbsp;🎉🎉 Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
+- *2025.08*: &nbsp;🎉🎉 Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
 - *2025.01*: &nbsp;📚👉 We are recruiting **AI safety research interns and full-time researchers**. Research interests include AI value alignment, hallucination mitigation and other safety issues. You can contact me or apply through our [official website](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=12597&dataSource=1&jobType=0&recruitType=CR&sourceType=001).
 - *2024.12*: &nbsp;🎯🏆 We have released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) regarding **AI value alignment evaluation**. Interested academic teams are welcomed to reveal this challenge and collaborate with us!
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
 - *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIES 2025</div><img src='images/AIES 2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diverse Human Value Alignment for Large Language Models via Ethical Reasoning](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882)
+
+**Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang, **AIES 2025**
+
+[**Oral Presentation**](https://www.youtube.com/live/ixl7piZoU5k?si=uvnY4nZ_IrDit1kQ)
+- We construct an ethical reasoning paradigm for LLMs from an interdisciplinary perspective. Grounded in established ethical decision-making models, our paradigm effectively guides LLMs to move beyond system-1 superficial conformity towards system-2 ethical deliberation. 
+- By integrating four complementary ethical theories, we demonstrate a comprehensive multi-lens ethical impact analysis is beneficial for diverse human value alignment. 
+- We demonstrate that our framework enables more accurate social norm inference and more cultural-sensitive LLM response, resulting in a significant improvement in norm identification and alignment scores on the SafeWorld benchmark.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ACM MM 2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://dl.acm.org/doi/abs/10.1145/3746027.3758308)
+
+Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, Shiguang Shan, **ACM Multimedia 2025**
+
+- We propose an automated data construction pipeline that generates controllable and diverse image-instruction pairs, along with ground-truth answers, enabling comprehensive and fine-grained
+hallucination evaluation. 
+- We build SHALE, a scalable hallucination benchmark consisting of over 30K image-instruction pairs spanning diverse hallucination types, evaluation tasks and scenarios. 
+- We conduct a large-scale evaluation of over 20 representative LVLMs on SHALE, revealing significant factuality hallucinations
+and high sensitivity to semantic perturbations.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI 2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +81,7 @@ Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez
 
 **Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li, **ACM Multimedia 2021**
 
-[**Project**](https://github.com/acewjh/FSFG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/acewjh/FSFG)
 - We propose the few-shot fine-grained action recognition problem, which is spawned from real-world demands. A novel framework is devised to accurately recognize unseen f ine-grained actions with few support samples. 
 - We combine task-driven and saliency-supervised signals to capture subtle action details, simulating the top-down and bottom-up attention mechanism of human vision. 
 - To generate discriminative representations for low interclass variance data, we propose contrastive meta-learning, making full use of potential contrastive pairs.
@@ -108,6 +140,12 @@ Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT**
 </div>
 
 # 📝 Publication List
+- Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES. 2025
+**Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang
+- SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia. 2025
+Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, Shiguang Shan
+- C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation. CIKM. 2025
+Xu Zhang, Zhifei Liu, **Jiahao Wang**, Huixuan Zhang, Fan Xu, Junzhe Zhang, Xiaojun Wan
 - EvCap: Element-Aware Video Captioning. IEEE TCSVT. 2024  
 Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang
 - PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation. IJCAI. 2022  
