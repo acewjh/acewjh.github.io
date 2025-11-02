@@ -140,11 +140,11 @@ Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT**
 </div>
 
 # 📝 Publication List
-- Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES. 2025
+- Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES. 2025  
 **Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang
-- SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia. 2025
+- SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia. 2025  
 Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, Shiguang Shan
-- C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation. CIKM. 2025
+- C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation. CIKM. 2025  
 Xu Zhang, Zhifei Liu, **Jiahao Wang**, Huixuan Zhang, Fan Xu, Junzhe Zhang, Xiaojun Wan
 - EvCap: Element-Aware Video Captioning. IEEE TCSVT. 2024  
 Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang
