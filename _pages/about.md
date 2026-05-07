@@ -29,7 +29,6 @@ He received his PhD and B.S. degrees in Computer Science from Beihang University
 - *2025.10*: &nbsp;🎉🎉 Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
 - *2025.08*: &nbsp;🎉🎉 Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
 - *2025.08*: &nbsp;🎉🎉 Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
-- *2025.01*: &nbsp;📚👉 We are recruiting **AI safety research interns and full-time researchers**. Research interests include AI value alignment, hallucination mitigation and other safety issues. You can contact me or apply through our [official website](https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=12597&dataSource=1&jobType=0&recruitType=CR&sourceType=001).
 - *2024.12*: &nbsp;🎯🏆 We have released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) regarding **AI value alignment evaluation**. Interested academic teams are welcomed to reveal this challenge and collaborate with us!
 - *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
 - *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
