@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahao Wang is currently a principal research engineer in **AI safety and governance** at 2012 Lab of [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/). He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively. He also worked as a research intern in Meituan in 2021.   
-Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/), Dr. Wang's major research interest during PhD was computer vision and video understanding, where he focused on how to utilize **few-shot, unsupervised** and other representation learning methods to facilitate AI **understanding human behaviors accurately and reliably.** It was also from then he has begun to look into the trustworthiness and safety issues of AI. After joining Huawei, he started in-depth research in AI safety and governance, with a particular focus on **AI alignment, hallucination mitigation** and other cutting-edge areas like AI transparency, data governance, etc.
+Dr. Jiahao Wang is currently a **multimodal foundation model** researcher at the Central Research Institute of 2012 Lab, [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/), where he focuses on **multimodal large models** and **Computer Using Agents (CUA)**, including GUI/CLI agent capabilities, environment interaction, and related pre-training and post-training techniques for agentic models.
 
+He also conducted research on **AI safety** in Huawei previously, with a focus on AI alignment, hallucination mitigation, and trustworthy evaluation for large models.
+
+He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively, supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/). During his PhD, his research mainly focused on computer vision and video understanding, especially few-shot and unsupervised representation learning.
 
 # 🔥 News
+- *2026.04*: &nbsp;📚👉 We are recruiting outstanding interns and full-time researchers in multimodal agentic models, GUI agent and CUA training. Outstanding Master’s and PhD candidates are warmly welcomed to connect.
+- *2026.03*: &nbsp;🚀 I joined the Foundation Model Lab at the Central Research Institute of 2012 Lab, focusing on agentic capabilities of multimodal foundation models, including GUI/CLI agents, and related pre/post-training techniques.
 - *2025.10*: &nbsp;🎉🎉 Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
 - *2025.08*: &nbsp;🎉🎉 Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
 - *2025.08*: &nbsp;🎉🎉 Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
