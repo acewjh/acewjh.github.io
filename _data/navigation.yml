@@ -3,20 +3,26 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Research Agenda"
+    url: "/#research-agenda"
+
+  - title: "Selected Projects"
+    url: "/#selected-projects"
+
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Publication List"
-    url: "/#-publication-list"
+    url: "/#publication-list"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Experience"
+    url: "/#experience"

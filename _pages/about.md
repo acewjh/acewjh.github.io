@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,173 +17,181 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Jiahao Wang is currently a **multimodal foundation model** researcher at the Central Research Institute of 2012 Lab, [Huawei Technologies Co., Ltd](https://www.huawei.com/eu/), where he focuses on **multimodal large models** and **Computer Using Agents (CUA)**, including GUI/CLI agent capabilities, environment interaction, and related pre-training and post-training techniques for agentic models.
+Dr. Jiahao Wang is a Principal Research Engineer at the Central Research Institute of Huawei 2012 Laboratories. His current research focuses on **multimodal foundation models** and **Computer-Using Agents (CUA)**, including GUI/CLI agents, OS/mobile navigation, visual coding, scalable agent data flywheels, and pre-training/post-training techniques for agentic multimodal models.
 
-He also conducted research on **AI safety** in Huawei previously, with a focus on AI alignment, hallucination mitigation, and trustworthy evaluation for large models.
+Before moving to multimodal agent research, he worked on **AI safety and trustworthy foundation models**, with a focus on LLM value alignment, hallucination evaluation, factuality alignment, and frontier AI governance. His earlier Ph.D. research at [IRIP Lab](https://irip.buaa.edu.cn/), Beihang University, supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ), focused on trustworthy multimodal learning and fine-grained video understanding.
 
-He received his PhD and B.S. degrees in Computer Science from Beihang University in 2022 and 2017 respectively, supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/). During his PhD, his research mainly focused on computer vision and video understanding, especially few-shot and unsupervised representation learning.
+I am interested in research collaborations and strong candidates in multimodal agents, GUI agents, CUA training, agentic RL, AI alignment, and trustworthy foundation models.
 
-# 🔥 News
-- *2026.04*: &nbsp;📚👉 We are recruiting outstanding interns and full-time researchers in multimodal agentic models, GUI agent and CUA training. Outstanding Master’s and PhD candidates are warmly welcomed to connect.
-- *2026.03*: &nbsp;🚀 I joined the Foundation Model Lab at the Central Research Institute of 2012 Lab, focusing on agentic capabilities of multimodal foundation models, including GUI/CLI agents, and related pre/post-training techniques.
-- *2025.10*: &nbsp;🎉🎉 Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
-- *2025.08*: &nbsp;🎉🎉 Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
-- *2025.08*: &nbsp;🎉🎉 Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
-- *2024.12*: &nbsp;🎯🏆 We have released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) regarding **AI value alignment evaluation**. Interested academic teams are welcomed to reveal this challenge and collaborate with us!
-- *2024.05*: &nbsp;🎉🎉 Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
-- *2022.07*: &nbsp;🎉🎉 Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2024.
+<span class='anchor' id='research-agenda'></span>
+# Research Agenda
 
-<span class='anchor' id='-selected-publications'></span>
-# 📝 Selected Publications 
+- **Computer-Using Agents**: GUI grounding, GUI/CLI navigation, OS/mobile/web agents, visual coding, and unified action spaces across interfaces and tools.
+- **Agent Data Flywheels**: scalable data generation, trajectory quality control, verifiable task expansion, evaluation-to-training loops, and data mixture design for pre-training and SFT.
+- **Agentic Training**: post-training, reinforcement learning infrastructure, process reward modeling, on-policy distillation, and long-horizon task optimization.
+- **Trustworthy Foundation Models**: value alignment, hallucination and factuality evaluation, pluralistic alignment, safety evaluation, and governance-oriented model assessment.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIES 2025</div><img src='images/AIES 2025.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='selected-projects'></span>
+# Selected Projects
+
+**Multimodal Agent Data Flywheel**  
+Built scalable data production pipelines for GUI grounding, navigation, and visual coding. The pipeline produced 13M pre-training samples and 500K SFT samples for multimodal foundation model training, improving GUI grounding accuracy by 21% and average navigation success rate by 16% on internal and public benchmarks.
+
+**OS-Level GUI Navigation**  
+Designed a goal-space-constrained GUI task expansion method that jointly generates executable instructions and verifiers. This improves the diversity and verifiability of OS-level agent trajectories and led to a 13% success-rate gain on OSWorld-style evaluation.
+
+**Ethical Reasoning for Value Alignment**  
+Proposed an ethical-reasoning paradigm for LLM value alignment, including fact gathering, norm identification, response strategy generation, ethical impact analysis, and reflection. The work achieved strong results on SafeWorld and was accepted as an oral paper at AIES 2025.
+
+**Fine-Grained Hallucination Evaluation**  
+Developed scalable benchmark construction and evaluation methods for hallucination detection in text and multimodal large models, covering factuality and faithfulness failure modes. Related work was accepted by ACM Multimedia 2025 and CIKM 2025.
+
+<span class='anchor' id='news'></span>
+# News
+
+- *2026.04*: We are recruiting outstanding interns and full-time researchers in multimodal agentic models, GUI agents, and CUA training. Master's and Ph.D. candidates are welcome to connect.
+- *2026.03*: I joined the Foundation Model Lab at the Central Research Institute of Huawei 2012 Laboratories, focusing on multimodal foundation models, GUI/CLI agents, and CUA training.
+- *2025.10*: Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
+- *2025.08*: Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
+- *2025.08*: Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
+- *2024.12*: We released a [technical challenge](https://www.chaspark.com/#/questions/1081973535022497792?sub=1081986006777053184&lang=en) on [Huawei Chaspark](https://www.chaspark.com/#/home) about **AI value alignment evaluation**.
+- *2024.05*: Our work **EvCap: Element-Aware Video Captioning** was accepted by IEEE TCSVT.
+- *2022.07*: Our unsupervised video segmentation method **PACE** was accepted by IJCAI 2022.
+
+<span class='anchor' id='selected-publications'></span>
+# Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIES 2025</div><img src='images/AIES 2025.png' alt="AIES 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diverse Human Value Alignment for Large Language Models via Ethical Reasoning](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882)
+[Diverse Human Value Alignment for Large Language Models via Ethical Reasoning](https://arxiv.org/abs/2511.00379)
 
-**Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang, **AIES 2025**
+**Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang, **AIES 2025 Oral**
 
-[**Oral Presentation**](https://www.youtube.com/live/ixl7piZoU5k?si=uvnY4nZ_IrDit1kQ)
-- We construct an ethical reasoning paradigm for LLMs from an interdisciplinary perspective. Grounded in established ethical decision-making models, our paradigm effectively guides LLMs to move beyond system-1 superficial conformity towards system-2 ethical deliberation. 
-- By integrating four complementary ethical theories, we demonstrate a comprehensive multi-lens ethical impact analysis is beneficial for diverse human value alignment. 
-- We demonstrate that our framework enables more accurate social norm inference and more cultural-sensitive LLM response, resulting in a significant improvement in norm identification and alignment scores on the SafeWorld benchmark.
+[Paper](https://arxiv.org/pdf/2511.00379) / [Oral Presentation](https://www.youtube.com/live/ixl7piZoU5k?si=uvnY4nZ_IrDit1kQ)
+- Built an ethical-reasoning paradigm for LLM value alignment from interdisciplinary ethical decision-making models.
+- Integrated four complementary ethical theories for multi-lens ethical impact analysis and diverse human value alignment.
+- Improved social norm inference and cultural sensitivity on SafeWorld-style value alignment evaluation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ACM MM 2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/ACM MM 2025.png' alt="ACM MM 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://dl.acm.org/doi/abs/10.1145/3746027.3758308)
+[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://arxiv.org/abs/2508.09584)
 
 Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, Shiguang Shan, **ACM Multimedia 2025**
 
-- We propose an automated data construction pipeline that generates controllable and diverse image-instruction pairs, along with ground-truth answers, enabling comprehensive and fine-grained
-hallucination evaluation. 
-- We build SHALE, a scalable hallucination benchmark consisting of over 30K image-instruction pairs spanning diverse hallucination types, evaluation tasks and scenarios. 
-- We conduct a large-scale evaluation of over 20 representative LVLMs on SHALE, revealing significant factuality hallucinations
-and high sensitivity to semantic perturbations.
+[Paper](https://arxiv.org/pdf/2508.09584) / [ACM DL](https://dl.acm.org/doi/abs/10.1145/3746027.3758308)
+- Built a scalable hallucination benchmark with controllable image-instruction pairs and fine-grained ground-truth answers.
+- Covered diverse hallucination types, tasks, and scenarios with over 30K image-instruction pairs.
+- Evaluated over 20 representative LVLMs and revealed factuality hallucination and semantic perturbation sensitivity.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI 2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/500x300.png' alt="CIKM 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PACE: Predictive and Contrastive Embedding for Unsupervised Action](https://www.ijcai.org/proceedings/2022/0198.pdf)
+[C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation](https://arxiv.org/abs/2504.10167)
+
+Xu Zhang, Zhifei Liu, **Jiahao Wang**, Huixuan Zhang, Fan Xu, Junzhe Zhang, Xiaojun Wan, **CIKM 2025**
+
+[Paper](https://arxiv.org/pdf/2504.10167)
+- Built a Chinese fine-grained benchmark for automated hallucination evaluation.
+- Supports more precise assessment of factual consistency and hallucination failure modes in Chinese LLM outputs.
+- Complements multimodal hallucination evaluation with a text-centric factuality benchmark.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI 2022.png' alt="IJCAI 2022" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation](https://www.ijcai.org/proceedings/2022/0198.pdf)
 
 **Jiahao Wang**, Jie Qin, Yunhong Wang, Annan Li, **IJCAI 2022**
 
-- We are the first to exploit both predictability and similarity information for unsupervised action segmentation. By leveraging their complementarity, we overcome the limitations of existing clustering- and prediction-based methods.
-- We design a unified framework to simultaneously learn predictive and contrastive embeddings, based on which accurate action boundaries are detected.
-- Extensive experiments on three challenging benchmarks demonstrate the superiority of PACE, with up to 26.9% improvements in F1-score over the state of the art.
+- Proposed a unified framework that exploits both predictability and similarity information for unsupervised action segmentation.
+- Learned predictive and contrastive embeddings for accurate action boundary detection.
+- Achieved up to 26.9% F1-score improvement over prior state-of-the-art methods.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/ACM MM 21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/ACM MM 21.png' alt="ACM MM 2021" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-shot Fine-grained Action Recognition via Bidirectional Attention and Contrastive Meta-learning](https://dl.acm.org/doi/10.1145/3474085.3475216)
 
 **Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li, **ACM Multimedia 2021**
 
-[**Project**](https://github.com/acewjh/FSFG)
-- We propose the few-shot fine-grained action recognition problem, which is spawned from real-world demands. A novel framework is devised to accurately recognize unseen f ine-grained actions with few support samples. 
-- We combine task-driven and saliency-supervised signals to capture subtle action details, simulating the top-down and bottom-up attention mechanism of human vision. 
-- To generate discriminative representations for low interclass variance data, we propose contrastive meta-learning, making full use of potential contrastive pairs.
+[Project](https://github.com/acewjh/FSFG)
+- Proposed the few-shot fine-grained action recognition problem and a framework for recognizing unseen fine-grained actions with few support samples.
+- Combined task-driven and saliency-supervised signals to capture subtle action details.
+- Introduced contrastive meta-learning for discriminative representation learning in low inter-class variance scenarios.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM 2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bidirectional Maximum Entropy Training with Word Co-occurrence for Video Captioning](https://ieeexplore.ieee.org/document/9780231)
-
-Sheng Liu, Annan Li, **Jiahao Wang**, Yunhong Wang, **IEEE TMM**
-
-- We are the first to introduce the maximum entropy RL theory and probability distribution optimization into the video captioning task. The proposed BME method, which can be employed in a plug-and-play manner, enlarges the search space for RL algorithms and maximizes the relative entropy between neighboring words to increase the diversity of descriptions.
-- To the best of our knowledge, this is the first work to exploit word co-occurrence in the training process of video captioning. It enables the model to pay different attention to neighboring word distributions at the phrase level, resulting in more human-like captions.
-- Extensive experiments on MSVD and MSR-VTT demonstrate the effectiveness of our approach, by achieving competitive results in different metrics. Further studies show that our method significantly increases the diversity of descriptions compared with the baseline models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCSVT 2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCSVT 2024.png' alt="TCSVT 2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvCap: Element-Aware Video Captioning](https://ieeexplore.ieee.org/document/10529278)
 
-Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT**
+Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT 2024**
 
-- We propose the idea of the element-aware usage of linguistic features in video captioning models which previously rely on the only visual representation which results in the caption that is easily polluted by hallucinations.
-- We design an EvCap framework that consists of a multimodal multi-branch encoder-decoder framework and a postoperation fusion strategy to flexibly insert and aggregate additional element-related features besides visual representations.
-- We conduct extensive experiments with CNNs, ViT and CLIP as the encoder on four representative datasets. The results demonstrate that EvCap can surpass most state-of-theart methods without training encoders, e.g. MSVD+10.9%, MSR-VTT+1.5%, VATEX+18.9% and TVC+4.7% on CIDEr score under ViT architectures. Furthermore, we also explore the performance of the multi-modal multi-feature framework w.r.t. the types and number of features adopted, e.g. visual and linguistic features, hoping to provide some insights for future model design.
+- Proposed element-aware usage of linguistic features to reduce video-captioning hallucinations.
+- Designed a multimodal multi-branch encoder-decoder framework with flexible feature fusion.
+- Achieved strong CIDEr improvements across MSVD, MSR-VTT, VATEX, and TVC.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM</div><img src='images/ACM TOMM 21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class='anchor' id='publication-list'></span>
+# Publication List
 
-[Will You Ever Become Popular? Learning to Predict Virality of Dance Clips](https://dl.acm.org/doi/abs/10.1145/3477533)
-
-**Jiahao Wang**, Yunhong Wang, Nina Weng, Tianrui Chai, Annan Li, Faxi Zhang, Sansi Yu, **ACM TOMM**
-
-- We first study virality prediction from dance challenges using visual cues, which has great commercial value. To facilitate the research, we release VDV dataset, a large-scale multi-modal dance virality prediction benchmark.
-- A multi-modal framework modeling both body movements and appearance dynamics is developed. For skeleton-based prediction, we devise a pyramidal skeleton graph convolutional network (PSGCN). For appearance-based prediction, relational temporal convolutional networks (RTCN) are proposed. An attentive modality fusion approach is introduced to aggregate predictions from multiple streams.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP 2019.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Atrous Temporal Convolutional Network for Video Action Segmentation](https://ieeexplore.ieee.org/document/8803088)
-
-**Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang, **ICIP 2019**
-
-- A novel encoder-decoder fully convolutional network that utilizes atrous temporal convolutions to explicitly extract contextual and local features for accurate temporal action segmentation.
-- We propose atrous temporal pyramid pooling (ATPP), an effective and efficient way to capture multiscale action dependencies. To our best knowledge, this is the first work that introduces atrous temporal convolutions to tackle the action segmentation problem in a multiscale manner.
-- Experimental results demonstrate that our model achieves improvements over the state of the art on 50 Salads, JIGSAWS and GTEA datasets.
-</div>
-</div>
-
-<span class='anchor' id='-publication-list'></span>
-# 📝 Publication List
-- Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES. 2025  
+- Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES 2025 Oral.  
 **Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang
-- SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia. 2025  
+- SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia 2025.  
 Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, Shiguang Shan
-- C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation. CIKM. 2025  
+- C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation. CIKM 2025.  
 Xu Zhang, Zhifei Liu, **Jiahao Wang**, Huixuan Zhang, Fan Xu, Junzhe Zhang, Xiaojun Wan
-- EvCap: Element-Aware Video Captioning. IEEE TCSVT. 2024  
+- VAPO: ValueCoT-Enhanced Search-Based Prompt Optimization for Human Value Alignment. Preprint.  
+Xuening Feng, **Jiahao Wang** et al.
+- EvCap: Element-Aware Video Captioning. IEEE TCSVT 2024.  
 Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang
-- PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation. IJCAI. 2022  
+- PACE: Predictive and Contrastive Embedding for Unsupervised Action Segmentation. IJCAI 2022.  
 **Jiahao Wang**, Jie Qin, Yunhong Wang, Annan Li
-- Bidirectional Maximum Entropy Training with Word Co-occurrence for Video Captioning. IEEE TMM. 2022  
+- Bidirectional Maximum Entropy Training with Word Co-occurrence for Video Captioning. IEEE TMM 2022.  
 Sheng Liu, Annan Li, **Jiahao Wang**, Yunhong Wang
-- Will You Ever Become Popular? Learning to Predict Virality of Dance Clips. ACM TOMM. 2021  
-**Jiahao Wang**, Yunhong Wang, Nina Weng, Tianrui Chai, Annan Li, Faxi Zhang, Sansi Yu
-- Few-shot Fine-grained Action Recognition via Bidirectional Attention and Contrastive Meta-learning. ACM Multimedia. 2021  
+- Few-Shot Fine-Grained Action Recognition via Bidirectional Attention and Contrastive Meta-Learning. ACM Multimedia 2021.  
 **Jiahao Wang**, Yunhong Wang, Sheng Liu, Annan Li
-- Two-stream Temporal Convolutional Network for Dynamic Facial Attractiveness Prediction. IEEE ICRP. 2021  
+- Will You Ever Become Popular? Learning to Predict Virality of Dance Clips. ACM TOMM 2021.  
+**Jiahao Wang**, Yunhong Wang, Nina Weng, Tianrui Chai, Faxi Zhang, Sansi Yu, Annan Li
+- Two-Stream Temporal Convolutional Network for Dynamic Facial Attractiveness Prediction. IEEE ICPR 2020.  
 Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
-- Assessing Action Quality via Attentive Spatio-Temporal Convolutional Networks. PRCV. 2020  
+- Assessing Action Quality via Attentive Spatio-Temporal Convolutional Networks. PRCV 2020.  
 **Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
-- Atrous Temporal Convolutional Network for Video Action Segmentation. IEEE ICIP. 2019  
+- Atrous Temporal Convolutional Network for Video Action Segmentation. IEEE ICIP 2019.  
 **Jiahao Wang**, Zhengyin Du, Annan Li, Yunhong Wang
 
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖 Honors and Awards
-- *2024* Huawei Annual President’s Individual Award
+<span class='anchor' id='honors-and-awards'></span>
+# Honors and Awards
+
+- *2024* Huawei Annual President's Individual Award
+- *2024* Huawei Battlefield Hero Award
 - *2022, 2023* Huawei Rising Star Award
 - *2022* Outstanding Doctoral Graduate Award of Beihang University
 - *2017* Doctoral Scholarship of Beihang University
 - *2017* Outstanding Undergraduate Graduate Award of Beijing
 - *2016* Meritorious Winner of MCM/ICM
-- *2016* Social Work Scholarship of Beihang University
 - *2016* Silver Medal of the 26th Feng Ru Competition of Beihang University
 
-<span class='anchor' id='-educations'></span>
-# 📖 Educations
-- *2017.09 - 2022.07*, PhD in Computer Science, Beihang University, Beijing, China (Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/))
-- *2013.09 - 2017.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China
+<span class='anchor' id='education'></span>
+# Education
 
-<span class='anchor' id='-internships'></span>
-# 💻 Internships
+- *2017.09 - 2022.07*, Ph.D. in Computer Science and Technology, Beihang University, Beijing, China. Supervised by Prof. [Yunhong Wang](https://scholar.google.com/citations?user=0ez7lA0AAAAJ) at [IRIP Lab](https://irip.buaa.edu.cn/).
+- *2013.09 - 2017.06*, B.E. in Computer Science and Technology, Beihang University, Beijing, China.
+
+<span class='anchor' id='experience'></span>
+# Experience
+
+- *2026.03 - Present*, Central Research Institute / Foundation Model Lab, Huawei 2012 Laboratories, Shenzhen, China.
+- *2022.08 - 2026.03*, AI Safety and Trustworthiness Research, Huawei 2012 Laboratories, Shenzhen, China.
 - *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.

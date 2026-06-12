@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahao Wang's Homepage"
-description              : "The journey is the reward."
+title                    : "Jiahao Wang"
+description              : "Multimodal foundation models, Computer-Using Agents, and trustworthy AI."
 repository               : "acewjh/acewjh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiahao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Principal Research Engineer"
+  bio              : "Multimodal Foundation Models | Computer-Using Agents | Trustworthy AI"
   location         : "Shenzhen, China"
-  employer         : "Huawei Technologies Co., Ltd."
+  employer         : "Huawei 2012 Laboratories"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rkJYivAAAAAJ"
-  email            : "jhwang@buaa.edu.cn"
+  email            : "acewjh@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jiahao-Wang-22"
   uri              :
   bitbucket        :
