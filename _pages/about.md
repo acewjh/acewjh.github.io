@@ -31,7 +31,7 @@ I am interested in research collaborations and strong candidates in multimodal a
 - **Agentic Training**: post-training, reinforcement learning infrastructure, process reward modeling, on-policy distillation, and long-horizon task optimization.
 - **Trustworthy Foundation Models**: value alignment, hallucination and factuality evaluation, pluralistic alignment, safety evaluation, and governance-oriented model assessment.
 
-<span class='anchor' id='selected-projects'></span>
+<!-- <span class='anchor' id='selected-projects'></span>
 # Selected Projects
 
 **Multimodal Agent Data Flywheel**  
@@ -44,7 +44,7 @@ Designed a goal-space-constrained GUI task expansion method that jointly generat
 Proposed an ethical-reasoning paradigm for LLM value alignment, including fact gathering, norm identification, response strategy generation, ethical impact analysis, and reflection. The work achieved strong results on SafeWorld and was accepted as an oral paper at AIES 2025.
 
 **Fine-Grained Hallucination Evaluation**  
-Developed scalable benchmark construction and evaluation methods for hallucination detection in text and multimodal large models, covering factuality and faithfulness failure modes. Related work was accepted by ACM Multimedia 2025 and CIKM 2025.
+Developed scalable benchmark construction and evaluation methods for hallucination detection in text and multimodal large models, covering factuality and faithfulness failure modes. Related work was accepted by ACM Multimedia 2025 and CIKM 2025. -->
 
 <span class='anchor' id='news'></span>
 # News
