@@ -89,7 +89,7 @@ Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, **Jiahao Wang**, Xiaozhen Wang, S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/500x300.png' alt="CIKM 2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/CIKM 2025.png' alt="CIKM 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation](https://arxiv.org/abs/2504.10167)
