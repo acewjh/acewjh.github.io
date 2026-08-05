@@ -50,7 +50,6 @@ Developed scalable benchmark construction and evaluation methods for hallucinati
 # News
 
 - *2026.04*: We are recruiting outstanding interns and full-time researchers in multimodal agentic models, GUI agents, and CUA training. Master's and Ph.D. candidates are welcome to connect.
-- *2026.03*: I joined the Foundation Model Lab at the Central Research Institute of Huawei 2012 Laboratories, focusing on multimodal foundation models, GUI/CLI agents, and CUA training.
 - *2025.10*: Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
 - *2025.08*: Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
 - *2025.08*: Our work **C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation** was accepted by CIKM 2025.
