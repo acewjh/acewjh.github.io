@@ -191,6 +191,6 @@ Nina Weng, **Jiahao Wang**, Annan Li, Yunhong Wang
 <span class='anchor' id='experience'></span>
 # Experience
 
-- *2026.03 - Present*, Central Research Institute / Foundation Model Lab, Huawei 2012 Laboratories, Shenzhen, China.
-- *2022.08 - 2026.03*, AI Safety and Trustworthiness Research, Huawei 2012 Laboratories, Shenzhen, China.
+- *2025 - Present*, Central Research Institute / Foundation Model Lab, Huawei 2012 Laboratories, Shenzhen, China.
+- *2022 - 2025*, AI Safety and Trustworthiness Research, Huawei 2012 Laboratories, Shenzhen, China.
 - *2021.05 - 2021.10*, Visual Intelligence Center, Meituan, Beijing, China.
