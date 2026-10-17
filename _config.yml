@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Jiahao Wang"
+url                      : "https://acewjh.github.io"
 description              : "Multimodal foundation models, Computer-Using Agents, and trustworthy AI."
 repository               : "acewjh/acewjh.github.io"
 google_scholar_stats_use_cdn : true
