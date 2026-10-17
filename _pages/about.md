@@ -49,6 +49,7 @@ Developed scalable benchmark construction and evaluation methods for hallucinati
 <span class='anchor' id='news'></span>
 # News
 
+- *2026.07*: Our work **JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation** was published in Findings of ACL 2026.
 - *2026.04*: We are recruiting outstanding interns and full-time researchers in multimodal agentic models, GUI agents, and CUA training. Master's and Ph.D. candidates are welcome to connect.
 - *2025.10*: Our work **Diverse Human Value Alignment for Large Language Models via Ethical Reasoning** was accepted as an [oral paper](https://ojs.aaai.org/index.php/AIES/article/download/36744/38882) by AIES 2025.
 - *2025.08*: Our work **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs** was accepted by ACM Multimedia 2025.
@@ -59,6 +60,20 @@ Developed scalable benchmark construction and evaluation methods for hallucinati
 
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings ACL 2026</div><img src='images/ACL Findings 2026.jpg' alt="JointCQ, Findings of ACL 2026" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation](https://aclanthology.org/2026.findings-acl.58/)
+
+Fan Xu, Huixuan Zhang, Zhenliang Zhang, **Jiahao Wang**, Xiaojun Wan, **Findings of ACL 2026**
+
+[Paper](https://aclanthology.org/2026.findings-acl.58.pdf) / [ACL Anthology](https://aclanthology.org/2026.findings-acl.58/)
+- Jointly generates claims and search queries to preserve context and improve query specificity in factual hallucination detection.
+- Filters synthesized training data with dedicated evaluation criteria and fine-tunes a unified claim-query generator.
+- Outperformed previous approaches across multiple open-domain QA hallucination detection benchmarks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIES 2025</div><img src='images/AIES 2025.png' alt="AIES 2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -145,6 +160,8 @@ Sheng Liu, Annan Li, Yuwei Zhao, **Jiahao Wang**, Yunhong Wang, **IEEE TCSVT 202
 <span class='anchor' id='publication-list'></span>
 # Publication List
 
+- JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation. Findings of ACL 2026.<br>
+Fan Xu, Huixuan Zhang, Zhenliang Zhang, **Jiahao Wang**, Xiaojun Wan
 - Diverse Human Value Alignment for Large Language Models via Ethical Reasoning. AIES 2025 Oral.  
 **Jiahao Wang**, Songkai Xue, Jinghui Li, Xiaozhen Wang
 - SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM Multimedia 2025.  

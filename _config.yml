@@ -65,6 +65,8 @@ include:
   - _pages
   - files
 exclude:
+  - AGENTS.md
+  - .codex
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
