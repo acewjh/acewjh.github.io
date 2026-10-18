@@ -110,6 +110,26 @@ future instances: a saved allowlist alone does not establish working access.
 - To update the optional Mac checkout, first inspect its status and preserve
   local changes, then fetch and fast-forward if possible. Never reset it blindly.
 
+### Git push credential helper
+
+If GitHub CLI repository requests succeed but `git push` reports
+`could not read Username for 'https://github.com'`, Git may not be using the
+existing CLI credential helper. Use the authenticated CLI for that command:
+
+```sh
+git -c credential.helper='!gh auth git-credential' push
+```
+
+For this checkout, the GitHub-scoped helper can also be saved locally:
+
+```sh
+git config --local credential.https://github.com.helper '!gh auth git-credential'
+```
+
+This uses the existing platform connection without storing a token in source.
+It requires an already authenticated `gh`; an actual authorization failure still
+needs to be diagnosed separately.
+
 ## Deployment checks
 
 ```sh
