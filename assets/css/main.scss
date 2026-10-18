@@ -107,3 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+// Keep publication badges clear of labels in detailed overview figures.
+.paper-box-image .badge-above {
+    position: static;
+    display: table;
+    margin: 0 0 .5em;
+}

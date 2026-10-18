@@ -5,6 +5,7 @@
 - This is a Jekyll site published by GitHub Pages from `main` at the repository root. Keep this hosting configuration unless the user requests a change.
 - Main content: `_pages/about.md`; author/site settings: `_config.yml`; menu: `_data/navigation.yml`; publication images: `images/`.
 - For new papers, verify title, author order, venue, and publication date against the publisher. Follow existing News, Selected Publications, and Publication List formatting. Bold Jiahao Wang in author lists.
+- For publication display images, prefer an original Overview or framework figure that explains the work simply and intuitively. Avoid paper title/abstract screenshots when a suitable Overview is available. Preserve the figure's content and legibility.
 - Use the installed Ruby and Bundler in the cloud environment. Install dependencies with `bundle install`; validate with `bundle exec jekyll build` and `git diff --check`. Do not commit `_site/`, `vendor/bundle/`, or `.bundle/`.
 - Preserve unrelated user changes. Fetch and inspect remote changes before publishing; merge divergent commits without force-pushing shared branches.
 - When asked to publish, push or use the available GitHub pull request workflow, then check the GitHub Pages deployment for the resulting commit. Report any permission or deployment failure clearly.
