@@ -30,6 +30,51 @@ The local Mac checkout is an optional working copy, not a required server.
 For a browser preview, run `bundle exec jekyll serve --host 0.0.0.0 --port 4000`
 and use the cloud environment's supported preview mechanism.
 
+## Paper Overview images
+
+Prefer the paper's original Overview or framework figure over title/abstract
+screenshots. Preserve the labels, arrows and legend; inspect the final image at
+the homepage's display size before using it. Do not redraw scientific figures.
+
+Use Python 3 with `PyMuPDF` (pinned in `docs/requirements-paper-figures.txt`).
+It is already available in the prepared cloud environment. If absent, install
+the requirements into a virtual environment outside the checkout.
+
+Activate the dedicated tools environment before these commands:
+
+```sh
+source /workspace/.homepage-tools/paper-venv/bin/activate
+```
+
+Download from the publisher and render a full-page preview first:
+
+```sh
+python3 docs/paper-figure.py https://aclanthology.org/2026.findings-acl.58.pdf \
+  --page 2 --output /tmp/paper-page.png --save-pdf /tmp/paper.pdf
+```
+
+Inspect that preview, identify the Overview bounds, then render just the figure:
+
+```sh
+python3 docs/paper-figure.py /tmp/paper.pdf --page 2 \
+  --clip X0 Y0 X1 Y1 --output images/paper-overview.png
+```
+
+`X0 Y0 X1 Y1` are PDF points measured from the page's top-left; select the actual
+figure bounds, not the example placeholder names. PNG rendering preserves the
+original PDF artwork and text. Then change the image reference/alt text in
+`_pages/about.md`, run `bundle exec jekyll build`, and verify the generated image
+reference and page. Commit only the selected image, intended source changes and
+its source/crop notes; keep downloaded PDFs and page previews outside the checkout.
+
+Downloads use the platform proxy and inherited CA trust. Git fetch and downloads
+need the platform's supported command network permission. A proxy connection
+failure is different from an HTTP 403 destination-policy denial. Compare the
+running policy with the saved environment settings; saved domain requirements
+may not yet be applied to the running instance. Apply necessary domain changes
+through environment settings, then retry. Never disable TLS verification,
+copy proxy credentials, or bypass destination policy.
+
 ## GitHub synchronization
 
 - Start each task from the latest remote `main`; inspect status before merging
