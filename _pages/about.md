@@ -61,7 +61,7 @@ Developed scalable benchmark construction and evaluation methods for hallucinati
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings ACL 2026</div><img src='images/ACL Findings 2026.jpg' alt="JointCQ, Findings of ACL 2026" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-above">Findings ACL 2026</div><a href='images/jointcq-overview.png'><img src='images/jointcq-overview.png' alt="Overview of the JointCQ framework and hallucination detection pipeline" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation](https://aclanthology.org/2026.findings-acl.58/)

@@ -75,6 +75,27 @@ may not yet be applied to the running instance. Apply necessary domain changes
 through environment settings, then retry. Never disable TLS verification,
 copy proxy credentials, or bypass destination policy.
 
+### JointCQ figure source
+
+`images/jointcq-overview.png` is the original Figure 1 from the
+[ACL Anthology PDF](https://aclanthology.org/2026.findings-acl.58.pdf), PDF page 2
+(printed page 1139). The crop is `[70, 70, 525, 276]` PDF points at 180 DPI.
+It retains both the framework and detection pipeline, including their labels,
+arrows and legend; the caption and surrounding paper text are excluded.
+
+Reproduce it using a downloaded PDF and a new output filename:
+
+```sh
+python3 docs/paper-figure.py /tmp/paper.pdf --page 2 \
+  --clip 70 70 525 276 --dpi 180 --output /tmp/jointcq-overview.png
+```
+
+On 2026-10-18, a fresh Personal Homepage cloud instance successfully downloaded
+both the publisher PDF above and `https://arxiv.org/pdf/2510.19310`, fetched
+GitHub refs, and reused the saved Ruby/Bundler dependencies. The earlier proxy
+403 for the publisher was no longer reproducible. Check actual requests on
+future instances: a saved allowlist alone does not establish working access.
+
 ## GitHub synchronization
 
 - Start each task from the latest remote `main`; inspect status before merging
